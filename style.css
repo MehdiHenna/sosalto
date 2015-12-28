@@ -1,0 +1,21 @@
+#logo {
+	width: 20%;
+	height: 20%;
+
+}
+
+#logo, ul, li, a {
+	display: inline-block;
+	margin-left: 5px;
+
+}
+
+navbar {
+	border: 5px solid black;
+
+}
+
+li {
+	border-left: 5px solid black;
+
+}
